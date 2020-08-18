@@ -1,0 +1,20 @@
+[ These comments are in addition to comments in original tables in McConnachie (2012, AJ, 144, 4) ]
+
+- Andromeda X, XII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII (Conn et al. 2012): Updated distance estimates using Conn et al. 2012 TRGB distances estimates (ref 202). These are all faint galaxies for which the previous estimates were also based on TRGB distances. Additionally, Conn et al. provide distance estimates for Andromeda I, II, III, V, IX, XI, XIII, XXIII, XXIV, XXV, XXVI, XXVII, NGC147, 185, M33 and M31. These have not been replaced since they are either bright galaxies with reliable TRGB estimates, or faint galaxies that used HB or RR Lyrae distances. Note that the Conn et al. distances to Andromeda IX, XXIV, XXV and XXVII are notably different from values in McConnachie et al. 2005 and Richardson et al. 2011.
+
+Andromeda III
+- Stellar velocity dispersion in table (from Tollerud et al 2012) notably higher than in Kalirai et al. 2010.
+
+Andromeda II
+- Maximum rotational velocity measured along axis with position angle PA_{kinematic} = 113+/-9degrees (notably different from photometric P.A.) [ref 204].
+
+WLM
+- Stellar velocity dispersion profile clearly not flat
+
+UGC 4879
+- Stellar RV now resolves previous discrepancy between stellar and HI velocity measurements (ref 200)
+- Upper limit on rotation of 8.6km/s (ref 200)
+
+KKR25
+- Velocity estimate in Makarov et al 2012 based on integrated light (and a planetary nebula) is very different to previous velocity based on HI measurements by Huchtmeier et al. 2003, with the conclusion that the HI is not associated with KKR25. See also Begum & Chengalur (2005, MNRAS, 362, 609) who fail to detect any HI in this galaxy.
+- Some weak evidence for stellar population gradients; structural profile best describe as an exponential decay but with a constant surface brightness in the central regions. Structural parameters in table correspond to "all stellar populations", as listed in Table 3 of Makarov et al. 2012. Half-light radius is based on exponential scale radius and does not take into account central depression of profile.
